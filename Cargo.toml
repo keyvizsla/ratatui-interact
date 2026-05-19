@@ -1,15 +1,15 @@
 [package]
-name = "ratatui-interact"
-version = "0.5.3"
+name = "ratatui-interact-fork"
+version = "0.5.3-fork.1"
 edition = "2024"
 rust-version = "1.85"
-description = "Interactive TUI components for ratatui with focus management and mouse support"
+description = "A fork of the ratatui-interactive crate with some patches"
 license = "MIT"
-authors = ["Brainwires Team"]
+authors = ["Leon Degel-Köhn", "Brainwires Team"]
 keywords = ["tui", "ratatui", "widgets", "focus", "mouse"]
 categories = ["command-line-interface", "gui"]
-repository = "https://github.com/Brainwires/ratatui-interact"
-homepage = "https://github.com/Brainwires/ratatui-interact"
+repository = "https://github.com/keyvizsla/ratatui-interact"
+homepage = "https://github.com/keyvizsla/ratatui-interact"
 documentation = "https://docs.rs/ratatui-interact"
 readme = "README.md"
 
